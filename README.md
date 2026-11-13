@@ -178,9 +178,7 @@ The interactive Shiny dashboard makes the results easier to explore, interpret a
 
 ## Author
 
-**Swayam Arora, **
-**Ishu, **
-**Karishma**
+**Swayam Arora, Ishu, Karishma**
 
 ## License
 
